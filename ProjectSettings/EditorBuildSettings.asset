@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 1c686e26d758549cbbf3e14baaca8fb3,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a8b5c22d4f42a4a6091ab6335e936f33,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 14ddf52b543164a42aa5ea89359d49ce,
+      type: 2}
