@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cfa02d4fed1a4e6a9469995c9231abe, type: 3}
+  m_Name: BuildScheme_Monstera
+  m_EditorClassIdentifier: 
+  productName: Monstera
+  scenes:
+  - _sceneAsset: {fileID: 102900000, guid: 0dc8a2ae4973c499480c26691c4bb3da, type: 3}
+    _sceneName: Scene_Monstera
+  _launchXCode: 1
+  _appMode: 1
+  _iconLayers:
+  - {fileID: 2800000, guid: 596d22642ab104dc99ce5bc87537ee09, type: 3}
+  - {fileID: 2800000, guid: 596d22642ab104dc99ce5bc87537ee09, type: 3}
+  - {fileID: 2800000, guid: 596d22642ab104dc99ce5bc87537ee09, type: 3}
+  _skipBuildStep: 0
