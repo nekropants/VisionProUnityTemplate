@@ -5,8 +5,8 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Dogs/DoggyVisualization.unity
+  - enabled: 0
+    path: Assets/Projects/Creatures/Dogs/DoggyVisualization.unity
     guid: 94bb23082a9f8432da5063b9a5affbe9
   m_configObjects:
     UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 1c686e26d758549cbbf3e14baaca8fb3,
