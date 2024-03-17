@@ -12,5 +12,20 @@ public class BuildSchemeEditor : Editor
         {
             buildScheme.PerformBuild();   
         }
+        
+        if (GUILayout.Button("Open XCode"))
+        {
+            buildScheme.OpenXCodeProject();   
+        }
+        
+        if (GUILayout.Button("Show in Finder"))
+        {
+            buildScheme.OpenBuilderFolder();   
+        }
+        
+        if (GUILayout.Button("Delete Build"))
+        {
+            buildScheme.DeleteBuild();   
+        }
     }
 }
