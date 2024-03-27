@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: SeafoamXR
-  productName: 'House Plant: Monstera'
+  productName: Lava Lamp Battery
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -140,10 +140,7 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1.0
-  preloadedAssets:
-  - {fileID: 6484712092112220834, guid: 14ddf52b543164a42aa5ea89359d49ce, type: 2}
-  - {fileID: 11400000, guid: a8b5c22d4f42a4a6091ab6335e936f33, type: 2}
-  - {fileID: 11400000, guid: dc1ad121b995e4820886af65480a04df, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -166,7 +163,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.UnityTechnologies.com.unity.template.urpblank
     Standalone: com.Unity-Technologies.com.unity.template.urp-blank
-    VisionOS: com.seafoamx.house-plant--monstera
+    VisionOS: com.seafoamx.lava-lamp-battery
     iPhone: com.Unity-Technologies.com.unity.template.urp-blank
   buildNumber:
     Standalone: 0
@@ -935,6 +932,6 @@ PlayerSettings:
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
-  platformRequiresReadableAssets: 1
+  platformRequiresReadableAssets: 0
   virtualTexturingSupportEnabled: 0
   insecureHttpOption: 0

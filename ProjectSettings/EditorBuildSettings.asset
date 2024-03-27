@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Projects/Creatures/Dogs/DoggyVisualization.unity
     guid: 94bb23082a9f8432da5063b9a5affbe9
+  - enabled: 1
+    path: Assets/Projects/Scenes/Scene_LavaLamp.unity
+    guid: 4b469099bb3ee450f8d22d386b628457
   m_configObjects:
     UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 1c686e26d758549cbbf3e14baaca8fb3,
       type: 2}
