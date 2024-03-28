@@ -1,3 +1,4 @@
+using Plugins.RichFramework.Editor;
 using UnityEditor;
 using UnityEngine;
 
@@ -15,7 +16,7 @@ public class BuildSchemeEditor : Editor
         
         if (GUILayout.Button("Open XCode"))
         {
-            buildScheme.OpenXCodeProject();   
+            buildScheme.OpenXcode();   
         }
         
         if (GUILayout.Button("Show in Finder"))
